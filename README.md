@@ -1,5 +1,7 @@
 # Receipt Detection System
 
+![Sample Predictions](sample_predictions.png)
+
 A production-grade object detection pipeline that localises receipts in arbitrary photographs — from manual dataset labelling to a live AWS deployment with real-time inference via a secured web interface.
 
 ## Overview
