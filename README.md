@@ -32,6 +32,7 @@ On 231 validation samples: **199 true positives**, 26 false negatives, 6 false p
 
 ## Dataset
 https://huggingface.co/datasets/mehdirafiei/Receipt_Detection
+
 Two sources were combined to create a balanced, overfitting-resistant dataset:
 
 | Source | Content | Count |
